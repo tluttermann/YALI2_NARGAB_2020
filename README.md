@@ -109,7 +109,7 @@ The following text contains information on the command lines that were used for 
 	      done
 
 ## Analyses of the rDNA clusters and the mitochondrial genome
-The following command line sequence was used for parts of the analysis of the rDNA clusters as well as of the mitochondrial genome of Y. lipolytica DSM 3286. The sequence was used to identify reads that harbor specific features.
+The following command line sequence was used for parts of the analysis of the rDNA clusters as well as of the mitochondrial genome of *Y. lipolytica* DSM 3286. The sequence was used to identify reads that harbor specific features.
 
 1. Conversion of the fastq files obtained from the ONT sequencing runs to fasta files:
 
