@@ -128,4 +128,4 @@ The following command line sequence was used for parts of the analysis of the rD
         grep -A1  -f  query_y_reads_from_ONT_run_x.txt ONT_run_x.fasta > query_y_reads.fasta
   
 
-For subsequent analyses both the text files from step 3 and the fasta files from step 4 have been used. Results were visualized with OriginLab software. For detailed analyses, the feature annotation tool of Geneious Prime® 2020.1.2 and the MUSCLE and MAUVE plugins were used.
+For subsequent analyses, both the text files from step 3 and the fasta files from step 4 have been used. Results were visualized with OriginLab software. For detailed analyses, the feature annotation tool of Geneious Prime® 2020.1.2 and the MUSCLE and MAUVE plugins were used.
